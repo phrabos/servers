@@ -1,2 +1,5 @@
 # servers
-compare server setups between node, python, golang
+compare server setups between:
+- node 
+- python
+- golang
